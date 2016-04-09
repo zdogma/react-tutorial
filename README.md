@@ -24,7 +24,7 @@ sqlite> .read db/comments.sql
 ```
 
 ### Start Server
-This repo only use node version.
+This repo only uses node version.
 
 ```sh
 npm install
