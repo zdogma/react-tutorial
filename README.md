@@ -4,6 +4,9 @@ This is the React comment box example from [the React tutorial](http://facebook.
 
 :warning: zdogma changed some parts of the tutorial components above.
 
+## Capture
+![capture](https://i.gyazo.com/9774d81cd115a78579108d502334da03.png)
+
 ## To use
 
 There are several simple server implementations included. They all serve static files from `public/` and handle requests to `/api/comments` to fetch or add data. Start a server with one of the following:
